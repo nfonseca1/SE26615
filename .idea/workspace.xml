@@ -26,12 +26,12 @@
       <file leaf-file-name="mult.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mult.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="68">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding>
-                <marker date="1506970030668" expanded="true" signature="81:98" ph="..." />
-                <marker date="1506970030668" expanded="true" signature="175:194" ph="..." />
-                <marker date="1506970030668" expanded="true" signature="242:272" ph="..." />
+                <marker date="1506970400913" expanded="true" signature="82:195" ph="..." />
+                <marker date="1506970400913" expanded="true" signature="272:291" ph="..." />
+                <marker date="1506970400913" expanded="true" signature="339:369" ph="..." />
               </folding>
             </state>
           </provider>
@@ -142,7 +142,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2294000" />
+    <option name="totallyTimeSpent" value="2645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1280" height="1400" extended-state="0" />
@@ -212,12 +212,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mult.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
-            <marker date="1506970030668" expanded="true" signature="81:98" ph="..." />
-            <marker date="1506970030668" expanded="true" signature="175:194" ph="..." />
-            <marker date="1506970030668" expanded="true" signature="242:272" ph="..." />
+            <marker date="1506970400913" expanded="true" signature="82:195" ph="..." />
+            <marker date="1506970400913" expanded="true" signature="272:291" ph="..." />
+            <marker date="1506970400913" expanded="true" signature="339:369" ph="..." />
           </folding>
         </state>
       </provider>
